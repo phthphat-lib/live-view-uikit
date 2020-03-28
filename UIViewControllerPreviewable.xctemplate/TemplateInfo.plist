@@ -11,7 +11,7 @@
 		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>DefaultCompletionName</key>
-	<string>SwiftViperModule</string>
+	<string>UIViewControllerPreviewable</string>
 	<key>Description</key>
 	<string>Generate UIViewController with liveview</string>
 	<key>Kind</key>
@@ -28,7 +28,7 @@
 			<key>Default</key>
 			<string></string>
 			<key>Identifier</key>
-			<string>viperModuleName</string>
+			<string>classPrefix</string>
 			<key>Name</key>
 			<string>Prefix name</string>
 			<key>Required</key>
@@ -38,7 +38,7 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_viperModuleName___</string>
+			<string>___VARIABLE_classPrefix___</string>
 			<key>Identifier</key>
 			<string>productName</string>
 			<key>Type</key>

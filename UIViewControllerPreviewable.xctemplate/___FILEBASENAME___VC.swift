@@ -23,8 +23,8 @@ class ___VARIABLE_productName:identifier___VC: UIViewController {
 import SwiftUI
 struct Presentable___VARIABLE_productName:identifier___VC: UIViewControllerRepresentable {
     func makeUIViewController(context: Context) -> ___VARIABLE_productName:identifier___VC {
-	let vc = ___VARIABLE_productName:identifier___VC()
-	return vc 
+		let vc = ___VARIABLE_productName:identifier___VC()
+		return vc 
     }
     func updateUIViewController(_ uiViewController: ___VARIABLE_productName:identifier___VC, context: Context) { }
 }
